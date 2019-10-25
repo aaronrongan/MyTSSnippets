@@ -1,5 +1,10 @@
-
 import requests
+
+###191023 直接抓取页面显示“你的浏览器不支持，原因在于网页是动态加载需要的页面
+# re= requests.get("https://www.lixinger.com/analytics/company/sz/300012/detail/announcement?type=all&page-index=0")
+# print(re.text)
+
+
 # headers={
 	# "Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
 	# "Accept-Encoding":"gzip, deflate, br",
@@ -11,7 +16,6 @@ import requests
 	# "User-Agent":"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36"
 # }
  
-
 send_headers = {
 "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362", 
 "Connection": "keep-alive",
@@ -29,6 +33,7 @@ send_headers = {
 # "Cache-Control": "max-age=0"，
 # "Connection": "Keep-Alive"，
 # "Content-Length": "64"，
+
 # "Content-Type": "application/json; charset=utf-8"，
 # "Cookie": "Hm_lpvt_ec0ee7e5c8bed46d4fdf3f338afc08f5=1571926341; jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1Yjc5Mjc5YmQ0M2I5MjEwMjAxNDJhZmUiLCJpYXQiOjE1NzE5MjYzMTQsImV4cCI6MTU3MjUzMTExNH0.o5bXRjtUb9vdIIR2W93AvcGfpeG7nGi45rUKDEpFI2Y; Hm_lvt_ec0ee7e5c8bed46d4fdf3f338afc08f5=1570710326,1570721805,1570800043,1571660830"，
 # "Host": "www.lixinger.com"，
