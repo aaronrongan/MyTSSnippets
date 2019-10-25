@@ -4,7 +4,6 @@ import requests
 # re= requests.get("https://www.lixinger.com/analytics/company/sz/300012/detail/announcement?type=all&page-index=0")
 # print(re.text)
 
-
 # headers={
 	# "Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
 	# "Accept-Encoding":"gzip, deflate, br",
