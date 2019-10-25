@@ -15,32 +15,32 @@ import requests
 	# "User-Agent":"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36"
 # }
  
-send_headers = {
-"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362", 
-"Connection": "keep-alive",
-"Cache-Control": "max-age=0",
-"Origin": "https://www.lixinger.com",
-"Accept-Encoding": "gzip, deflate, br",
-"Cookies":"Hm_lpvt_ec0ee7e5c8bed46d4fdf3f338afc08f5=1571926341; jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1Yjc5Mjc5YmQ0M2I5MjEwMjAxNDJhZmUiLCJpYXQiOjE1NzE5MjYzMTQsImV4cCI6MTU3MjUzMTExNH0.o5bXRjtUb9vdIIR2W93AvcGfpeG7nGi45rUKDEpFI2Y; Hm_lvt_ec0ee7e5c8bed46d4fdf3f338afc08f5=1570710326,1570721805,1570800043,1571660830", 
-"Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
-"Accept-Language": "zh-CN,zh;q=0.8"}
-
 # send_headers = {
-# "Accept": "application/json, text/plain, */*"，
-# "Accept-Encoding": "gzip, deflate, br"，
-# "Accept-Language": "en-US, en; q=0.8, zh-Hans-CN; q=0.5, zh-Hans; q=0.3"，
-# "Cache-Control": "max-age=0"，
-# "Connection": "Keep-Alive"，
-# "Content-Length": "64"，
+# "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362", 
+# "Connection": "keep-alive",
+# "Cache-Control": "max-age=0",
+# "Origin": "https://www.lixinger.com",
+# "Accept-Encoding": "gzip, deflate, br",
+# "Cookies":"Hm_lpvt_ec0ee7e5c8bed46d4fdf3f338afc08f5=1571926341; jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1Yjc5Mjc5YmQ0M2I5MjEwMjAxNDJhZmUiLCJpYXQiOjE1NzE5MjYzMTQsImV4cCI6MTU3MjUzMTExNH0.o5bXRjtUb9vdIIR2W93AvcGfpeG7nGi45rUKDEpFI2Y; Hm_lvt_ec0ee7e5c8bed46d4fdf3f338afc08f5=1570710326,1570721805,1570800043,1571660830", 
+# "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8",
+# "Accept-Language": "zh-CN,zh;q=0.8"}
 
-# "Content-Type": "application/json; charset=utf-8"，
-# "Cookie": "Hm_lpvt_ec0ee7e5c8bed46d4fdf3f338afc08f5=1571926341; jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1Yjc5Mjc5YmQ0M2I5MjEwMjAxNDJhZmUiLCJpYXQiOjE1NzE5MjYzMTQsImV4cCI6MTU3MjUzMTExNH0.o5bXRjtUb9vdIIR2W93AvcGfpeG7nGi45rUKDEpFI2Y; Hm_lvt_ec0ee7e5c8bed46d4fdf3f338afc08f5=1570710326,1570721805,1570800043,1571660830"，
-# "Host": "www.lixinger.com"，
-# "Origin": "https://www.lixinger.com"，
-# "Referer": "https://www.lixinger.com/analytics/company/sh/600009/detail/announcement?type=fsfc&page-index=0"，
-# "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362"}
+send_headers = {
+"Accept": "application/json, text/plain, */*",
+"Accept-Encoding": "gzip, deflate, br",
+"Accept-Language": "en-US, en; q=0.8, zh-Hans-CN; q=0.5, zh-Hans; q=0.3",
+"Cache-Control": "max-age=0",
+"Connection": "Keep-Alive",
+"Content-Length": "64",
+"Content-Type": "application/json; charset=utf-8",
+"Cookie": "Hm_lpvt_ec0ee7e5c8bed46d4fdf3f338afc08f5=1571926341; jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1Yjc5Mjc5YmQ0M2I5MjEwMjAxNDJhZmUiLCJpYXQiOjE1NzE5MjYzMTQsImV4cCI6MTU3MjUzMTExNH0.o5bXRjtUb9vdIIR2W93AvcGfpeG7nGi45rUKDEpFI2Y; Hm_lvt_ec0ee7e5c8bed46d4fdf3f338afc08f5=1570710326,1570721805,1570800043,1571660830",
+"Host": "www.lixinger.com",
+"Origin": "https://www.lixinger.com",
+"Referer": "https://www.lixinger.com/analytics/company/sh/600009/detail/announcement?type=fsfc&page-index=0",
+"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.18362"
+}
 
 realurl="https://www.lixinger.com/api/stock/posts/announcement/list"
 # re= requests.get(realurl)
-re=requests.get(realurl, timeout=100, headers=send_headers)
+re=requests.get(realurl, timeout=10, headers=send_headers)
 print(re)
