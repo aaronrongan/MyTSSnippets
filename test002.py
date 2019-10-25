@@ -1,4 +1,6 @@
 import sys
+import requests
+
 from PyQt4.QtGui import QApplication
 from PyQt4.QtCore import QUrl
 from PyQt4.QtWebKit import QWebPage
