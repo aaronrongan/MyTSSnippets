@@ -1,3 +1,5 @@
+#PyQt4
+
 import sys
 import requests
 

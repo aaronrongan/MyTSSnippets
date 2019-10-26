@@ -33,7 +33,7 @@ send_headers = {
 "Connection": "Keep-Alive",
 "Content-Length": "64",
 "Content-Type": "application/json; charset=utf-8",
-"Cookie": "Hm_lpvt_ec0ee7e5c8bed46d4fdf3f338afc08f5=1571926341; jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1Yjc5Mjc5YmQ0M2I5MjEwMjAxNDJhZmUiLCJpYXQiOjE1NzE5MjYzMTQsImV4cCI6MTU3MjUzMTExNH0.o5bXRjtUb9vdIIR2W93AvcGfpeG7nGi45rUKDEpFI2Y; Hm_lvt_ec0ee7e5c8bed46d4fdf3f338afc08f5=1570710326,1570721805,1570800043,1571660830",
+# "Cookie": "Hm_lpvt_ec0ee7e5c8bed46d4fdf3f338afc08f5=1571926341; jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1Yjc5Mjc5YmQ0M2I5MjEwMjAxNDJhZmUiLCJpYXQiOjE1NzE5MjYzMTQsImV4cCI6MTU3MjUzMTExNH0.o5bXRjtUb9vdIIR2W93AvcGfpeG7nGi45rUKDEpFI2Y; Hm_lvt_ec0ee7e5c8bed46d4fdf3f338afc08f5=1570710326,1570721805,1570800043,1571660830",
 "Host": "www.lixinger.com",
 "Origin": "https://www.lixinger.com",
 "Referer": "https://www.lixinger.com/analytics/company/sh/600009/detail/announcement?type=fsfc&page-index=0",
