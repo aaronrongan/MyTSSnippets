@@ -1,0 +1,5 @@
+StrategyID:010
+RunTime:14:30:00
+VRDate:& C:/Users/Aaron/AppData/Local/Programs/Python/Python37/python.exe "c:/Users/Aaron/Documents/MyMobileBooks_800_Reading/MyTSSnippets/ts00571 动量轮动策略实时信号/ts00571.py"
+AVDate:5
+Date,Time,Signal,Index,Shares,Price,CurPL,CumPL

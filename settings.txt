@@ -1,0 +1,8 @@
+
+#TuShare Token
+token='f20927201ecc20e3cea9279abacfbb1d39a9624820d9b2f94613f722'
+pro=ts.pro_api(token)
+
+#快捷键
+ctrl+Alt+F5 VSCode run python in Terminal
+F5 debug

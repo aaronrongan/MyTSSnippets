@@ -1,0 +1,1 @@
+"C:\Users\Administrator\AppData\Local\Programs\Python\Python35\python.exe "  "C:\Users\Administrator\Documents\MyMobileBooks_800_Reading\MyTSSnippets\ts00521 白云飞信息自动监控\ts00521.py"
