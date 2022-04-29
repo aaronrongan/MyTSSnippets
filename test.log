@@ -1,0 +1,9 @@
+2022-Feb-03 16:40:38 root:DEBUG:This is a debug message
+2022-Feb-03 16:40:38 root:INFO:This is an info message
+2022-Feb-03 16:40:38 root:WARNING:This is a warning message
+2022-Feb-03 16:40:38 root:ERROR:This is an error message
+2022-Feb-03 16:40:38 root:CRITICAL:This is a critical message
+2022-Feb-03 16:40:47 urllib3.connectionpool:DEBUG:Starting new HTTP connection (1): www.cninfo.com.cn:80
+2022-Feb-03 16:40:47 urllib3.connectionpool:DEBUG:http://www.cninfo.com.cn:80 "GET /new/fulltextSearch/full?searchkey=600487+%E6%8B%9B%E8%82%A1&sdate=&edate=&isfulltext=false&sortName=pubdate&sortType=desc&pageNum=1 HTTP/1.1" 200 None
+2022-Feb-03 16:40:47 root:DEBUG:未找到招股说明书文件:600487 亨通光电
+2022-Feb-03 16:40:47 root:DEBUG:文件地址为空:600487 亨通光电

@@ -1,0 +1,8 @@
+2022-Feb-03 16:37:01 root:DEBUG:This is a debug message
+2022-Feb-03 16:37:01 root:INFO:This is an info message
+2022-Feb-03 16:37:01 root:WARNING:This is a warning message
+2022-Feb-03 16:37:01 root:ERROR:This is an error message
+2022-Feb-03 16:37:01 root:CRITICAL:This is a critical message
+2022-Feb-03 16:37:09 urllib3.connectionpool:DEBUG:Starting new HTTP connection (1): www.cninfo.com.cn:80
+2022-Feb-03 16:37:10 urllib3.connectionpool:DEBUG:http://www.cninfo.com.cn:80 "GET /new/fulltextSearch/full?searchkey=600745+%E6%8B%9B%E8%82%A1&sdate=&edate=&isfulltext=false&sortName=pubdate&sortType=desc&pageNum=1 HTTP/1.1" 200 None
+2022-Feb-03 16:37:43 root:DEBUG:未找到招股说明书文件:600745 闻泰科技

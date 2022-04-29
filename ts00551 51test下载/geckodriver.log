@@ -1,0 +1,93 @@
+1613970320638	geckodriver	INFO	Listening on 127.0.0.1:57846
+1613970331520	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aaron\\AppData\\Local\\Temp\\rust_mozprofilefoh6Tt"
+JavaScript error: 4n0xwbdxlym.cfg, line 2: ReferenceError: Components is not defined
+1613970333274	Marionette	INFO	Listening on port 57858
+1613970333552	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613970333564	Marionette	ERROR	[26] No reply from Marionette:Register
+1613970333564	Marionette	ERROR	[24] No reply from Marionette:Register
+1613970333564	Marionette	ERROR	[21] No reply from Marionette:Register
+console.log: "REMOVE CACHED" "eyJhbGciOiJSUzI1NiIsInR5cCI6ImF0K0pXVCIsImtpZCI6IjIwMTkwOTEwLTdjZWQyZWI5In0.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmZpcmVmb3guY29tLmNuIiwiYXVkIjoiaHR0cHM6Ly9zeW5jLmZpcmVmb3guY29tLmNuL3Rva2VuLyIsImNsaWVudF9pZCI6IjU4ODIzODZjNmQ4MDE3NzYiLCJleHAiOjE2MTM4MDYwOTgsImlhdCI6MTYxMzc4NDQ5OCwianRpIjoiOGFkNDA1ZmE5NDhkZGY5YWQ4MTU2YWVhNWExNTZhMjFkNTFkMjY3Y2Q1OTI4ZTBjZjNlNjdlNzM4MzVkZTMyOSIsInNjb3BlIjoiaHR0cHM6Ly9pZGVudGl0eS5tb3ppbGxhLmNvbS9hcHBzL29sZHN5bmMiLCJzdWIiOiJhNTEzOGU3MWE5NzU0Y2M4OGU3OGJmYWViZTgzZjcwOCIsImZ4YS1nZW5lcmF0aW9uIjoxNDQ2NDQ2MDczNzA4LCJmeGEtcHJvZmlsZUNoYW5nZWRBdCI6MTQ0NjQ0NjA3MzcwOH0.uHSnoyvVpMXWvn8vUCrVDnypzdPVejKT0pazZbma0IbI06wA_vNjNmhlRDZ3ScLWGB1EAkLWBNh8VXAHkUe5BcmjevDQP9XOgjI_onJgE_l0pHjpB4a8fzDeuPDqCpwe67ilnCg4u7IBEmk2KID13L4DzjWpxjl_Fz5pXAam_hrx4bHxQrxhMZiKS8ws2fFAKdV_dvDkU5AZxRe5ZUKe--pLR636b5nW19-UGAxLYhWg80sT9xSddWm6dl_g36LYUBcvJyoWfiscWJFfvUpsdoqBw4LFsXr6LS-3dvBvhqBl2Ro1uPvhH462fAiA9mI_Yit4Vd-YHyUjR9xATLPwow"
+1613970532913	Marionette	INFO	Stopped listening on port 57858
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1613970545213	geckodriver	INFO	Listening on 127.0.0.1:58155
+1613970555801	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aaron\\AppData\\Local\\Temp\\rust_mozprofilezEQN8e"
+JavaScript error: 4n0xwbdxlym.cfg, line 2: ReferenceError: Components is not defined
+1613970557387	Marionette	INFO	Listening on port 58165
+1613970557850	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613970557871	Marionette	ERROR	[24] No reply from Marionette:Register
+1613970557871	Marionette	ERROR	[26] No reply from Marionette:Register
+1613970557871	Marionette	ERROR	[21] No reply from Marionette:Register
+JavaScript error: undefined, line 0: Error: Frame not found, or missing host permission
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 813: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 813: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 483: TypeError: window is null
+console.log: "REMOVE CACHED" "eyJhbGciOiJSUzI1NiIsInR5cCI6ImF0K0pXVCIsImtpZCI6IjIwMTkwOTEwLTdjZWQyZWI5In0.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmZpcmVmb3guY29tLmNuIiwiYXVkIjoiaHR0cHM6Ly9zeW5jLmZpcmVmb3guY29tLmNuL3Rva2VuLyIsImNsaWVudF9pZCI6IjU4ODIzODZjNmQ4MDE3NzYiLCJleHAiOjE2MTM4MDYwOTgsImlhdCI6MTYxMzc4NDQ5OCwianRpIjoiOGFkNDA1ZmE5NDhkZGY5YWQ4MTU2YWVhNWExNTZhMjFkNTFkMjY3Y2Q1OTI4ZTBjZjNlNjdlNzM4MzVkZTMyOSIsInNjb3BlIjoiaHR0cHM6Ly9pZGVudGl0eS5tb3ppbGxhLmNvbS9hcHBzL29sZHN5bmMiLCJzdWIiOiJhNTEzOGU3MWE5NzU0Y2M4OGU3OGJmYWViZTgzZjcwOCIsImZ4YS1nZW5lcmF0aW9uIjoxNDQ2NDQ2MDczNzA4LCJmeGEtcHJvZmlsZUNoYW5nZWRBdCI6MTQ0NjQ0NjA3MzcwOH0.uHSnoyvVpMXWvn8vUCrVDnypzdPVejKT0pazZbma0IbI06wA_vNjNmhlRDZ3ScLWGB1EAkLWBNh8VXAHkUe5BcmjevDQP9XOgjI_onJgE_l0pHjpB4a8fzDeuPDqCpwe67ilnCg4u7IBEmk2KID13L4DzjWpxjl_Fz5pXAam_hrx4bHxQrxhMZiKS8ws2fFAKdV_dvDkU5AZxRe5ZUKe--pLR636b5nW19-UGAxLYhWg80sT9xSddWm6dl_g36LYUBcvJyoWfiscWJFfvUpsdoqBw4LFsXr6LS-3dvBvhqBl2Ro1uPvhH462fAiA9mI_Yit4Vd-YHyUjR9xATLPwow"
+JavaScript error: resource://gre/modules/ConduitsChild.jsm, line 108: Error: sendRemoveListener on closed conduit zotero@chnm.gmu.edu.549755814056
+1613970662734	Marionette	INFO	Stopped listening on port 58165
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614040508404	geckodriver	INFO	Listening on 127.0.0.1:61217
+1614040521526	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aaron\\AppData\\Local\\Temp\\rust_mozprofileBqQII5"
+JavaScript error: 4n0xwbdxlym.cfg, line 2: ReferenceError: Components is not defined
+1614040524066	Marionette	INFO	Listening on port 61240
+1614040524181	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614040524202	Marionette	ERROR	[26] No reply from Marionette:Register
+1614040524203	Marionette	ERROR	[21] No reply from Marionette:Register
+1614040524203	Marionette	ERROR	[24] No reply from Marionette:Register
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 483: TypeError: window is null
+JavaScript error: undefined, line 0: Error: Frame not found, or missing host permission
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 483: TypeError: window is null
+console.log: "REMOVE CACHED" "eyJhbGciOiJSUzI1NiIsInR5cCI6ImF0K0pXVCIsImtpZCI6IjIwMTkwOTEwLTdjZWQyZWI5In0.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmZpcmVmb3guY29tLmNuIiwiYXVkIjoiaHR0cHM6Ly9zeW5jLmZpcmVmb3guY29tLmNuL3Rva2VuLyIsImNsaWVudF9pZCI6IjU4ODIzODZjNmQ4MDE3NzYiLCJleHAiOjE2MTM4MDYwOTgsImlhdCI6MTYxMzc4NDQ5OCwianRpIjoiOGFkNDA1ZmE5NDhkZGY5YWQ4MTU2YWVhNWExNTZhMjFkNTFkMjY3Y2Q1OTI4ZTBjZjNlNjdlNzM4MzVkZTMyOSIsInNjb3BlIjoiaHR0cHM6Ly9pZGVudGl0eS5tb3ppbGxhLmNvbS9hcHBzL29sZHN5bmMiLCJzdWIiOiJhNTEzOGU3MWE5NzU0Y2M4OGU3OGJmYWViZTgzZjcwOCIsImZ4YS1nZW5lcmF0aW9uIjoxNDQ2NDQ2MDczNzA4LCJmeGEtcHJvZmlsZUNoYW5nZWRBdCI6MTQ0NjQ0NjA3MzcwOH0.uHSnoyvVpMXWvn8vUCrVDnypzdPVejKT0pazZbma0IbI06wA_vNjNmhlRDZ3ScLWGB1EAkLWBNh8VXAHkUe5BcmjevDQP9XOgjI_onJgE_l0pHjpB4a8fzDeuPDqCpwe67ilnCg4u7IBEmk2KID13L4DzjWpxjl_Fz5pXAam_hrx4bHxQrxhMZiKS8ws2fFAKdV_dvDkU5AZxRe5ZUKe--pLR636b5nW19-UGAxLYhWg80sT9xSddWm6dl_g36LYUBcvJyoWfiscWJFfvUpsdoqBw4LFsXr6LS-3dvBvhqBl2Ro1uPvhH462fAiA9mI_Yit4Vd-YHyUjR9xATLPwow"
+JavaScript error: resource://gre/modules/ConduitsChild.jsm, line 108: Error: sendRemoveListener on closed conduit zotero@chnm.gmu.edu.549755814059
+1614040589090	Marionette	INFO	Stopped listening on port 61240
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614043869137	geckodriver	INFO	Listening on 127.0.0.1:51233
+1614043883367	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aaron\\AppData\\Local\\Temp\\rust_mozprofileSZOkDK"
+JavaScript error: 4n0xwbdxlym.cfg, line 2: ReferenceError: Components is not defined
+1614043885788	Marionette	INFO	Listening on port 51248
+1614043886007	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614043886030	Marionette	ERROR	[21] No reply from Marionette:Register
+1614043886030	Marionette	ERROR	[25] No reply from Marionette:Register
+1614043886031	Marionette	ERROR	[27] No reply from Marionette:Register
+JavaScript error: undefined, line 0: Error: Frame not found, or missing host permission
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 813: DataCloneError: The object could not be cloned.
+1614043999148	geckodriver	INFO	Listening on 127.0.0.1:51538
+1614044012706	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aaron\\AppData\\Local\\Temp\\rust_mozprofileix0QGw"
+JavaScript error: 4n0xwbdxlym.cfg, line 2: ReferenceError: Components is not defined
+1614044015033	Marionette	INFO	Listening on port 51550
+1614044015346	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614044015369	Marionette	ERROR	[25] No reply from Marionette:Register
+1614044015369	Marionette	ERROR	[27] No reply from Marionette:Register
+1614044015369	Marionette	ERROR	[21] No reply from Marionette:Register
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 813: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 813: DataCloneError: The object could not be cloned.
+JavaScript error: undefined, line 0: Error: Frame not found, or missing host permission
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 813: DataCloneError: The object could not be cloned.
+JavaScript error: resource://gre/modules/ExtensionChild.jsm, line 813: DataCloneError: The object could not be cloned.
+1614057935147	geckodriver	INFO	Listening on 127.0.0.1:57839
+1614057947688	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aaron\\AppData\\Local\\Temp\\rust_mozprofileonpyMq"
+JavaScript error: 4n0xwbdxlym.cfg, line 2: ReferenceError: Components is not defined
+1614057949845	Marionette	INFO	Listening on port 57862
+1614057950338	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614057950364	Marionette	ERROR	[27] No reply from Marionette:Register
+1614057950364	Marionette	ERROR	[21] No reply from Marionette:Register
+1614057950364	Marionette	ERROR	[25] No reply from Marionette:Register
+1614058507222	geckodriver	INFO	Listening on 127.0.0.1:59096
+1614058520158	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Aaron\\AppData\\Local\\Temp\\rust_mozprofilespRT2O"
+JavaScript error: 4n0xwbdxlym.cfg, line 2: ReferenceError: Components is not defined
+1614058522346	Marionette	INFO	Listening on port 59110
+1614058522799	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614058522823	Marionette	ERROR	[27] No reply from Marionette:Register
+1614058522823	Marionette	ERROR	[21] No reply from Marionette:Register
+1614058522823	Marionette	ERROR	[25] No reply from Marionette:Register
+JavaScript error: https://www.51test.net/show/10081985.html, line 11: ReferenceError: uaredirect is not defined
+JavaScript error: undefined, line 0: Error: Frame not found, or missing host permission
+JavaScript error: undefined, line 0: Error: Frame not found, or missing host permission
+1614058732403	Marionette	ERROR	[70] No reply from Marionette:Register
+JavaScript error: resource://gre/modules/ConduitsChild.jsm, line 108: Error: sendRemoveListener on closed conduit zotero@chnm.gmu.edu.549755814053
+1614058737387	Marionette	INFO	Stopped listening on port 59110
