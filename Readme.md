@@ -14,6 +14,7 @@
 - IRF19102201 Snippets清单.xlsx
 - IRF19100306 量化投资学习笔记
 
+<<<<<<< HEAD
 after stash
 New Branch2
 
@@ -23,3 +24,5 @@ New Branch2
 
 stash 
 >>>>>>> Stashed changes
+=======
+>>>>>>> refs/remotes/origin/master
