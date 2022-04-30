@@ -17,3 +17,9 @@
 after stash
 New Branch2
 
+<<<<<<< Updated upstream
+=======
+New Branch2
+
+stash 
+>>>>>>> Stashed changes
