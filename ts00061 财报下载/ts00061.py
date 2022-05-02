@@ -113,7 +113,7 @@ print(father_path)
 stocklistwholepath=pwd + '/ts00061 财报下载/stocklist.csv'
 print(stocklistwholepath)
 # fullstocklistwholepath=pwd + "/DataRepository/db00011/stockcodelist1.csv"
-fullstocklistwholepath="C:\\Users\\Aaron\\Documents\\MyMobileBooks_800_Reading\\MyTSSnippets\\DataRepository\\db00011\\stockcodelist1.csv"
+fullstocklistwholepath="C:\\Users\\Aaron\\Documents\\WS-git\\\MyTSSnippets\\DataRepository\\db00011\\stockcodelist1.csv"
 
 print(fullstocklistwholepath)
 # /MyTSSnippets
